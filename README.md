@@ -19,21 +19,27 @@
 
 ```yaml
 name: Amit Agrawal
-title: AI Architect & Builder
-location: Finland
+title: Lead Solution Architect, Data & AI
+company: Vivicta | ex-Tietoevry
+location: Helsinki, Finland
+experience: 20+ years
 focus:
+  - Data & AI Strategy, Architecture & Delivery
+  - Generative AI & Large Language Models
   - Multi-Agent Orchestration Systems
   - Model Context Protocol (MCP) Servers
   - Neuro Knowledge Graphs (FlyBrain / VFB)
-  - AI Gateway & Tooling Infrastructure
-  - Hermes Agent Ecosystem
 tech_stack:
   languages: [Python, TypeScript, Rust, Go, Bash]
-  frameworks: [FastAPI, Node.js, Docker, WSL2]
-  domains: [AI/ML, Neuroinformatics, Agent Architectures]
-currently_learning: [Advanced Agent Memory, Graph RAG]
-ask_me_about: [MCP, Multi-Agent Systems, FlyBrain, VFB, Neuro KG]
-fun_fact: I build AI agents that build other AI agents 🤖
+  frameworks: [FastAPI, Node.js, Docker, WSL2, Neo4j]
+  domains: [AI/ML, Data Architecture, Neuroinformatics, Agent Architectures]
+leadership:
+  - Managed 185+ FTE teams
+  - Delivered €8M+ revenue programs
+  - Built Data & AI practices across India, Finland, Czechia
+currently_learning: [Advanced Agent Memory, Graph RAG, GenAI at Scale]
+ask_me_about: [Data & AI Strategy, GenAI, MCP, Multi-Agent Systems, Neuro KG]
+fun_fact: I help Nordic organisations turn data & AI ambitions into practical, deliverable solutions 🚀
 ```
 
 ---
