@@ -20,7 +20,7 @@
 ```yaml
 name: Amit Agrawal
 title: AI Architect & Builder
-location: India
+location: Finland
 focus:
   - Multi-Agent Orchestration Systems
   - Model Context Protocol (MCP) Servers
