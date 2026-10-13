@@ -11,7 +11,7 @@
 
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=200&section=header&text=Amit%20Agrawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Solution%20Architect%20%7C%20Data%20%26%20AI%20%7C%20Helsinki%2C%20Finland&descSize=18&descAlignY=55" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=200&section=header&text=Amit%20Agrawal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Solution%20Architect%20%7C%20Data%20%26amp%3B%20AI%20%7C%20Helsinki%2C%20Finland&descSize=18&descAlignY=55" width="100%" alt="Banner" />
 </div>
 
 <!-- Typing Animation -->
@@ -99,7 +99,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitAgrawal-AI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AmitAgrawal-AI&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmitAgrawal-AI&theme=tokyonight" alt="Repos per Language" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitAgrawal-AI&theme=tokyonight" alt="Profile Details" width="100%" />
 </p>
 
 ---
