@@ -29,6 +29,32 @@
 
 ---
 
+<!-- ==================== CONNECT (top of profile) ==================== -->
+## 🤝 Let's Connect
+
+<p align="center">
+  <b>💼 Open to Data &amp; AI conversations, architecture reviews, and partnerships across the Nordics</b><br />
+  <sub>Reach out on LinkedIn — I reply to every genuine request.</sub>
+</p>
+
+<p align="center">
+  <a href="https://fi.linkedin.com/in/amit-agrawal-data-ai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AmitAgrawal-AI?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20Helsinki-Finland-00D4FF?style=flat-square" alt="Helsinki, Finland" />
+  <img src="https://img.shields.io/badge/💼%20Vivicta-Data%20%26%20AI-7C3AED?style=flat-square" alt="Vivicta" />
+  <img src="https://img.shields.io/badge/🎓%20CCAR--F-in%20progress-3FB950?style=flat-square" alt="CCAR-F in progress" />
+</p>
+
+---
+
 <!-- About Section -->
 ## 👨‍💻 About Me
 
@@ -104,20 +130,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitAgrawal-AI&theme=tokyonight" alt="Profile Details" width="100%" />
-</p>
-
----
-
-<!-- Connect -->
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://fi.linkedin.com/in/amit-agrawal-data-ai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/AmitAgrawal-AI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
